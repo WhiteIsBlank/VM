@@ -1,0 +1,6 @@
+﻿  VM.cpp
+C:\Users\兔子爱吃草\OneDrive\桌面\逆向\SRE考核\VM\VM\VM.cpp(142,12): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\兔子爱吃草\OneDrive\桌面\逆向\SRE考核\VM\VM\VM.cpp(637,30): warning C4244: “参数”: 从“double”转换到“uint32_t”，可能丢失数据
+C:\Users\兔子爱吃草\OneDrive\桌面\逆向\SRE考核\VM\VM\VM.cpp(651,14): warning C4244: “参数”: 从“double”转换到“uint32_t”，可能丢失数据
+    正在创建库 C:\Users\兔子爱吃草\OneDrive\桌面\逆向\SRE考核\VM\x64\Debug\VM.lib 和对象 C:\Users\兔子爱吃草\OneDrive\桌面\逆向\SRE考核\VM\x64\Debug\VM.exp
+  VM.vcxproj -> C:\Users\兔子爱吃草\OneDrive\桌面\逆向\SRE考核\VM\x64\Debug\VM.dll
